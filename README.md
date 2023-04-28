@@ -1,2 +1,2 @@
 # NEAT
-This repository contains the implementation of NEAT for my course ECE 698 which i did with 2 other project mates
+Hello, and welcome to this repository, where you can discover the implementation of NEAT. My two project partners and I created it for our ECE 698 course. NEAT is a continuous function that uses intermediate attention maps to map locations in Bird's Eye View (BEV) scene coordinates to waypoints and semantics. NEAT allows to compresses of high-dimensional 2D image features into a compact representation. Feel free to explore our implementation, and do not hesitate to ask us any questions.
